@@ -34,3 +34,8 @@ git clone https://github.com/yourusername/document-summarizer.git
 cd document-summarizer
 cp .env.example .env
 docker-compose up --build
+```
+
+## License
+
+This project is licensed under the [MIT License]
